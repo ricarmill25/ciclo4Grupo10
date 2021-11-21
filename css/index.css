@@ -1,0 +1,67 @@
+.container-fluid{
+    background:#8FCE2E ;
+}
+
+.logo{
+    width: 55%;
+    border:#8FCE2E;
+}
+
+
+.icono-redes{
+    position: relative;
+    width: 50px;
+    padding: 2px 2px;
+    margin: 5px 5px;
+}
+
+ul li{
+    
+    position: relative;
+    font-size: 20px;
+    padding: 5px 5px;
+}
+
+.nav-item{
+    position: relative;
+    font-size: 25px;
+    left: -10%;
+
+}
+
+.card-group{
+    height: 600px;
+    position: relative;
+    background:url(../img/fondo.jpg);
+    background-size: cover;
+    filter: brightness(70%);
+
+}
+
+.card{
+    background: none;
+    text-align: center;
+}
+
+.card .card-title{
+    color: white;
+    font-size: 36px;
+    
+}
+
+footer{
+    width: 100%;
+    position:absolute;
+    height: 70px;
+    background-color:black;
+    text-align: center;
+
+
+}
+
+h1{
+    position: absolute;
+    color: white;
+    text-align: center;
+
+}
