@@ -1,0 +1,16 @@
+.navbar-brand{
+    font-size: 40px;
+    color: #8FCE2E;
+}
+
+.nav-item{
+    padding-right: 30px;
+    border-right: 70px;
+}
+
+.nav-link{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    
+}

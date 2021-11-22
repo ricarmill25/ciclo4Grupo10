@@ -1,0 +1,50 @@
+body{
+    width: 100%;
+    height: auto;
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(80%);
+}
+.navbar-brand{
+    font-size: 40px;
+    color: #8FCE2E;
+}
+
+.nav-item{
+    padding-right: 30px;
+    border-right: 70px;
+}
+
+.nav-link{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+.container{
+    position: relative;
+    transform: translate(0%, 20%);
+}
+
+.text_principal{
+    font-size: 35px;
+    color:black;
+}
+
+.modal-dialog{
+    background-color: none;
+}
+.modal-header{
+    align-content: center;
+    text-align: center;
+
+}
+
+.modal-title{
+    color: #8FCE2E;
+    
+}
+
