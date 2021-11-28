@@ -1,0 +1,41 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+a{
+  text-decoration: none;
+  color: black;
+}
+a.skip-link:hover {color:black}
+body{
+  width: 100%;
+  height: auto;
+  background-image: url(/src/fondos/fondo.jpg);
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.BtnCursor{
+  cursor:pointer;
+}
+thead{
+  text-align: center;
+
+}
+tbody{
+  text-align: center;
+}
+.table-hover tbody tr:hover td{
+  background:aquamarine;
+}
