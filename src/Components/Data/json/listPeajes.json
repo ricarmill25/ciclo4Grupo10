@@ -1,0 +1,74 @@
+{
+  "listPeajes": [
+    {
+      "id": 2,
+      "Peaje": "Peaje Villa Carmesí",
+      "Consorcio": "ConsorcioPrueba12",
+      "creacion": "12/11/2018",
+      "encargado": "José Serge",
+      "ciudad": "Medellin",
+      "latitud": 1912010,
+      "longitud": -81821
+    },
+    {
+      "id": 4,
+      "Peaje": "Peaje Solar Campestre",
+      "Consorcio": "ConsorcioPrueba22",
+      "creacion": "01/12/2021",
+      "encargado": "Camila ",
+      "ciudad": "Florida",
+      "latitud": 1912010,
+      "longitud": -81821
+    },
+    {
+      "id": 5,
+      "Peaje": "Peaje Miramar",
+      "Consorcio": "ConsorcioPrueba23",
+      "creacion": "02/09/2020",
+      "encargado": "Ricardo Millan",
+      "ciudad": "Miami",
+      "latitud": 1912010,
+      "longitud": -81821
+    },
+    {
+      "id": 6,
+      "Peaje": "Peaje Avenida Soltic",
+      "Consorcio": "ConsorcioPrueba42",
+      "creacion": "06/01/2021",
+      "encargado": "Cristian",
+      "ciudad": "Barranquilla",
+      "latitud": 1912010,
+      "longitud": -81821
+    },
+    {
+      "id": 9,
+      "Peaje": "Peaje Santa Marta",
+      "Consorcio": "ConsorcioPrueba42",
+      "creacion": "06/01/2021",
+      "encargado": "Nadim",
+      "ciudad": "Barranquilla",
+      "latitud": 1912010,
+      "longitud": -81821
+    },
+    {
+      "id": 17,
+      "Peaje": "Peaje Valle Del Cauca",
+      "Consorcio": "ConsorcioPrueba42",
+      "creacion": "06/01/2021",
+      "encargado": "Sebastian",
+      "ciudad": "Barranquilla",
+      "latitud": 1912010,
+      "longitud": -81821
+    },
+    {
+      "id": 13,
+      "Peaje": "Peaje Props",
+      "Consorcio": "ConsorcioPrueba42",
+      "creacion": "06/01/2021",
+      "encargado": "Jorge",
+      "ciudad": "Barranquilla",
+      "latitud": 1912010,
+      "longitud": -81821
+    }
+  ]
+}

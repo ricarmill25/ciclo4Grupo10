@@ -1,0 +1,49 @@
+{
+  "ListUsers": [
+    {
+      "cedula": 1,
+      "nombre": "Jose",
+      "apellidos": "Serge",
+      "celular": 1234455,
+      "usuario": "Jmserge",
+      "password": 1234,
+      "rol": "Administrador"
+    },
+    {
+      "cedula": 2,
+      "nombre": "Master",
+      "apellidos": "Master",
+      "celular": 1234455,
+      "usuario": "Master",
+      "password": 1234,
+      "rol": "Administrador"
+    },
+    {
+      "cedula": 3,
+      "nombre": "Camila",
+      "apellidos": "Rojas",
+      "celular": 1234455,
+      "usuario": "Crojas",
+      "password": 1234,
+      "rol": "Usuario Interno"
+    },
+    {
+      "cedula": 4,
+      "nombre": "Ricardo",
+      "apellidos": "Millan",
+      "celular": 1234455,
+      "usuario": "Rmillan",
+      "password": 1234,
+      "rol": "Usuario Externo"
+    },
+    {
+      "cedula": 5,
+      "nombre": "Cristian",
+      "apellidos": "",
+      "celular": 1234455,
+      "usuario": "Cristian",
+      "password": 1234,
+      "rol": "Usuario Interno"
+    }
+  ]
+}

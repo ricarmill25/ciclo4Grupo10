@@ -1,0 +1,36 @@
+{
+  "ListUserCard": [
+    {
+      "cedula": 1,
+      "placa": "ABC123",
+      "numeroTarjeta": "123456",
+      "saldo": 10000
+      
+    },
+    {
+      "cedula": 2,
+      "placa": "ABC124",
+      "numeroTarjeta": "876543",
+      "saldo": 20000
+      
+    },
+    {
+      "cedula": 3,
+      "placa": "ABC125",
+      "numeroTarjeta": "765456",
+      "saldo": 1000
+    },
+    {
+      "cedula": 4,
+      "placa": "ABC125",
+      "numeroTarjeta": "TYR345",
+      "saldo": 0
+    },
+    {
+      "cedula": 5,
+      "placa": "ABC126",
+      "numeroTarjeta": "FGD23",
+      "saldo": 1000
+    }
+  ]
+}
