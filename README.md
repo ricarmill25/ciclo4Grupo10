@@ -72,12 +72,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Tener en cuenta, la aplicacion utiliza json server para la Version 8
 
-Las Rutas implementadas son:
+Deben ubicarse en la ruta .\Components\Data\json
 
-http://localhost:3004/ListUsers ==> Se utiliza para el login, para mostrar listado de Usuarios
+Y desde aqui, a traves de cmd ejecutar los siguientes comandos en negrita
 
-http://localhost:3005/listConsorcios ==> Se utiliza para mostrar listado de Consorcios
+### json-server --watch Users.json --port 3004
 
-http://localhost:3006/listPeajes ==> Se utiliza para mostrar listado de Peajes
+Esto habilita en el navegador en :  http://localhost:3004/ListUsers ==> Se utiliza para el login, para mostrar listado de Usuarios
 
-http://localhost:3307/ListUserCard => Se utiliza para mostrar listado de Tarjetas de Usuario
+### json-server --watch listConsorcios.json --port 3005
+
+Esto habilita en el navegador en : http://localhost:3005/listConsorcios ==> Se utiliza para mostrar listado de Consorcios
+
+### json-server --watch listPeajes.json --port 3006
+
+Esto habilita en el navegador en : http://localhost:3006/listPeajes ==> Se utiliza para mostrar listado de Peajes
+
+### json-server --watch ListUserCard.json --port 3007
+
+Esto habilita en el navegador en : http://localhost:3307/ListUserCard => Se utiliza para mostrar listado de Tarjetas de Usuario
