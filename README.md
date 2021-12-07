@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+###Tener en cuenta, la aplicacion utiliza json server 
+
+Las Rutas implementadas son:
+
+http://localhost:3004/ListUsers ==> Se utiliza para el login, para mostrar listado de Usuarios
+
+http://localhost:3005/listConsorcios ==> Se utiliza para mostrar listado de Consorcios
+
+http://localhost:3006/listPeajes ==> Se utiliza para mostrar listado de Peajes
+
+http://localhost:3307/ListUserCard => Se utiliza para mostrar listado de Tarjetas de Usuario
